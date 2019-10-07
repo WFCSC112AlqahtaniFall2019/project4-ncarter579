@@ -101,9 +101,6 @@ int main() {
                         return 0;
                     }
                 }
-                else{     //if it isn't a valid entry will output this
-                    cout << "not a valid entry, please enter a valid row and column combination" << endl;
-                }
             }
         }
     }
